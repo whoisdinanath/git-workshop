@@ -1,1 +1,2 @@
 to create conflict
+I want to solve merge conflict
